@@ -1,4 +1,4 @@
-<img src="./banner.jpg" style="display:inline-block;padding:0% 15%;"/>
+<img src="./notes/banner.jpg" style="display:inline-block;padding:0% 15%;"/>
 
 # Introduction to Swift Programming Language
 
